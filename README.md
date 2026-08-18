@@ -1,5 +1,9 @@
 # Hello, I'm PRATHAM BHOSALE
 </a><a href="https://www.linkedin.com/in/pratham-bhosale-5468ab31b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/prathambhosale83">
+  <img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
